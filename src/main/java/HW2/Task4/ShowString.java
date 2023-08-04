@@ -1,6 +1,5 @@
 package HW2.Task4;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 /**@apiNote Разработайте программу, которая выбросит Exception, когда пользователь вводит пустую строку.
